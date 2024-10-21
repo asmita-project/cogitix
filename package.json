@@ -1,6 +1,6 @@
 {
   "name": "machine_test",
-  "homepage": "https://asmita-project.github.io/cogitix",
+  "homepage": "https://asmita-project.github.io/cogitix.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
