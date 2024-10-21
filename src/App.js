@@ -18,6 +18,11 @@ const router = createBrowserRouter([
         path: 'character/:id',
         element: <Characters />,
     },
+    {
+      path: 'cogitix',
+        element: <Characters />,
+      
+    }
     ]
   }
 ]);
