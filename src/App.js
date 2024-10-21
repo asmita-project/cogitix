@@ -7,7 +7,7 @@ import Sidepanel from './component/sidebar/sidebar';
 const router = createBrowserRouter([
 
   {
-    path: '/',
+    path: '',
     element:<Sidepanel />,
     children: [
       {
